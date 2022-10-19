@@ -4,7 +4,7 @@ Version: 4.0 (Simulation with 16 drones)
 Prepared by: Shaiful Nizam
 Prepared on: 2022/05/23
 Note: Use this launch file to load the world in Gazebo.
-      To change the world file, I find it cleaner to do it directly in start.launch under the "world" arg parameter.
+      To change the world file, I find it cleaner to do it directly in world.launch under the "world" arg parameter.
       I find that giving "time" value in increments of 3 seconds is enough time to allow ROS to load and initialize 
       the drone models. If there is not enough time, the drones will not behave properly in the simulation.
 -->

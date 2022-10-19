@@ -13,7 +13,7 @@ Note: Use this launch file to load the world in Gazebo.
   <arg name="use_sim_time" default="true"/>
   <arg name="gui" default="true"/><arg name="headless" default="false"/>
   <arg name="debug" default="true"/>
-  <include file="$(find flood_monitor_16)/launch/start.launch">
+  <include file="$(find flood_monitor_16)/launch/world.launch">
   </include>
  
   <include file="$(find timed_roslaunch)/launch/timed_roslaunch.launch">

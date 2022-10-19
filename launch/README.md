@@ -1,6 +1,6 @@
-This folder contains files with the extension .launch
-The flood_monitor.launch file is used for launching the Gazebo simulator.
-The world.launch file is used for loading the "world". This file will be called by flood_monitor.launch file.
-Use the world.launch file to select which world file you would want to use in the simulator.
-The launch files with "drone" in their file name are used for loading the drone models. These files will be called by flood_monitor.launch file.
-In the flood_monitor.launch file, the argument "time", is the amount of time to delay the load of an element. For example, in my case, there is a 3 second difference between loading each element. From trial and error, I found that this is the minimum amount of time required to load each element properly. If there are errors for a paticular element, try adjusting the time for that element to load properly.
+- This folder contains files with the extension .launch
+- The flood_monitor.launch file is used for launching the Gazebo simulator.
+- The world.launch file is used for loading the "world". This file will be called by flood_monitor.launch file.
+- Use the world.launch file to select which world file you would want to use in the simulator.
+- The launch files with "drone" in their file name are used for loading the drone models. These files will be called by flood_monitor.launch file.
+- In the flood_monitor.launch file, the argument "time", is the amount of time to delay the load of an element. For example, in my case, there is a 3 second difference between loading each element. From trial and error, I found that this is the minimum amount of time required to load each element properly. If there are errors for a paticular element, try adjusting the time for that element to load properly.

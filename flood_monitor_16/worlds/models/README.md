@@ -1,1 +1,1 @@
-
+- The launch_pad.dae file is the model for the green platform for the drones to use as a launch pad.

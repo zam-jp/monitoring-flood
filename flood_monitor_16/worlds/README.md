@@ -1,1 +1,1 @@
-
+- This folder contains .dae, .tif, and .world files that are used to model the world.

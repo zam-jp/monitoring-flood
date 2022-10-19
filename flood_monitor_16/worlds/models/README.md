@@ -1,1 +1,2 @@
-- The launch_pad.dae file is the model for the green platform for the drones to use as a launch pad.
+- This folder contains models used in the world file.
+- The launch_pad.dae file is the model for the green platform used by drones as a launch pad.

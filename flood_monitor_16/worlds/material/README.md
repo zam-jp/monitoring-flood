@@ -1,1 +1,2 @@
-
+- This folder contains visual elements used in the world file.
+- The blue_plane.material is an element that will be used to represent flood water.

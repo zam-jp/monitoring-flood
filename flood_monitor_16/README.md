@@ -1,2 +1,2 @@
 - This is the ROS package.
-- CMakeLists.txt and package.xml is not included. These two files will be generated when you create your own ROS project.
+- CMakeLists.txt and package.xml is not included. These two files will be generated when you create your own ROS package.

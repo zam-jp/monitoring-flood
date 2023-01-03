@@ -24,4 +24,6 @@
 
 ### Installing My Project
 After making sure you have all the prerequisites installed, you can begin installing my project. This is the way I have tried to install it and it worked.
-- Create a ROS package using the ROS command catkin_create_pkg. If you are not sure about this, I recommend doing the ROS beginner tutorial (http://wiki.ros.org/ROS/Tutorials).
+- Create a ROS package flood_monitor_16 using the ROS command catkin_create_pkg. If you are not sure about this, I recommend doing the ROS beginner tutorial (http://wiki.ros.org/ROS/Tutorials). This will create a folder named flood_monitor_16 inside your ROS workspace, ~/catkin_ws/
+- **IMPORTANT**: I recommend using the package name flood_monitor_16 since the launch files will be calling this project with that name. Otherwise you will have to change the project calls in the launch files. 
+- Download my project files from the flood_monitor_16 folder on this Github repository into the flood_monitor_16 folder in your ROS workspace.

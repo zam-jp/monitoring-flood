@@ -10,9 +10,8 @@
 
 ## How to Install and Run the Simulation
 ### Prerequisite
-- Have ROS Noetic installed.
--- Install from http://wiki.ros.org/noetic/Installation/Ubuntu
-- Have Hector Quadrotor installed.
+- Have ROS Noetic installed. (Install from http://wiki.ros.org/noetic/Installation/Ubuntu)
+- Have Hector Quadrotor installed. (Install from [GITHUB repo: RAFALAMAO](https://github.com/RAFALAMAO/hector-quadrotor-noetic))
 - Have Python 3 (or above) installed.
 
 ### My Environment

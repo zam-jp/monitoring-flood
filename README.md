@@ -21,3 +21,7 @@
 - ROS version: Noetic 1.15.11
 - Gazebo version: 11.5.1 (This should comes together with the ROS version installed)
 - Python version: 3.8.5
+
+### Installing My Project
+After making sure you have all the prerequisites installed, you can begin installing my project. This is the way I have tried to install it and it worked.
+- Create a ROS package using the ROS command catkin_create_pkg. If you are not sure about this, I recommend doing the ROS beginner tutorial (http://wiki.ros.org/ROS/Tutorials).

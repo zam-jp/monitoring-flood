@@ -1,5 +1,12 @@
-# Control Strategy for Monitoring a Flood and It's Verification in Gazebo
-- This is my graduation research.
-- I am using Gazebo with ROS for simulating the use of multiple drones to monitor flood.
+# Control Strategy for Monitoring Flood and Its Verification in Gazebo
 
-## About
+## Summary
+- This is the title for my graduation research.
+- The objective was to find an inundation in an unkown area using multiple drones.
+- A control strategy was developed using an adaptive controller based on Function Approximation Technique Based Immersion and Invariance (FATII), a flood detection algorithm based on image segmentation, and a distribution algorithm based on Centroidal Voronoi Tessellation.
+- Gazebo with ROS was used for the simulator environment.
+- A ROS package called Hector Quadrotor was used for simulating the drones (17 altogether: 16 for flood detection and 1 for the purpose of overhead view recording).
+- The 3D world was created using BLENDER with a GIS (Geographic Information System) plugin and then exported to Gazebo in Collada format.
+
+## How to Install and Run the Simulation
+### Prerequisite

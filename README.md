@@ -11,8 +11,10 @@
 ## How to Install and Run the Simulation
 ### Prerequisite
 - Have ROS Noetic installed. (Install from http://wiki.ros.org/noetic/Installation/Ubuntu)
+  - Dependency package: timed_roslaunch.
 - Have Hector Quadrotor installed. (Install from https://github.com/RAFALAMAO/hector-quadrotor-noetic)
 - Have Python 3 (or above) installed.
+  - Required libraries: panda, shapely, opencv, geovoronoi, etc.
 
 ### My Environment
 - Ubuntu version: 20

@@ -30,7 +30,7 @@ Before continuing, if you are not familiar with ROS, I recommend doing the ROS b
 - Next, build the catkin workspace. Make sure you are in the directory ~/catkin_ws/ and not ~/catkin_ws/src/ or any other directory. Then run catkin_make from the command-line.
 - Finally, we need to add the workspace to the ROS environment. Go to the directory ~/catkin_ws/devel/ and run setup.bash from the command-line.
 
-You should be able to launch the project now, if there is no issues. You can tell if there are issues, for example, the graphics for the world are not loading, or there are error messages in the Gazebo log terminal.
+You should be able to launch the project now, if there is no issues. You can tell if there are issues, for example, the graphics for the world are not loading, or there are error and warning messages in the terminal.
 
 ### Known Potential Issues
 - Controller update period for Hector Quadrotor is faster than Gazebo simulator.

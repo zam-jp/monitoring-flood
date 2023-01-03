@@ -39,4 +39,8 @@ You should be able to launch the project now, if there is no issues. You can tel
 
 - Warning message in the Python terminal about using deprecated array interface. This is related to the shapely package update patch.
   - Where to fix: /home/.local/lib/python3.8/site-packages/descartes/patch.py
-  - What to do: Open the Python file with a text editor and look for the lines with > t.exterior
+  - What to do: Open the Python file with a text editor and look for the lines containing *t.exterior*. Change it to *t.exterior.coords*
+
+- Graphics for the world are not loading.
+  - Where to fix: Look at all .world files.
+  - What to do: Check and change the file paths to the images as needed. By default, I have used relative paths, but for some reason, sometimes the computer could not find the resources. I found that replacing the relative paths with absolute paths can fix this.

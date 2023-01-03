@@ -10,3 +10,12 @@
 
 ## How to Install and Run the Simulation
 ### Prerequisite
+- Have ROS Noetic installed.
+- Have Hector Quadrotor installed.
+- Have Python 3 (or above) installed.
+
+### My Environment
+- Ubuntu version: 20
+- ROS version: Noetic 1.15.11
+- Gazebo version: 11.5.1 (This should comes together with the ROS version installed)
+- Python version: 3.8.5

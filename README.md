@@ -44,3 +44,7 @@ You should be able to launch the project now, if there is no issues. You can tel
 - Graphics for the world are not loading.
   - Where to fix: Look at all .world files.
   - What to do: Check and change the file paths to the images as needed. By default, I have used relative paths, but for some reason, sometimes the computer could not find the resources. I found that replacing the relative paths with absolute paths can fix this.
+
+### Run the Simulation
+To run the simulation you will launch the ROS package using the following command from the command-line,
+*roslaunch [package] [filename.launch]*

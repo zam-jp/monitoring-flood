@@ -17,7 +17,7 @@
   - Required libraries: panda, shapely, opencv, geovoronoi, etc.
 
 ### My Environment
-- Ubuntu version: 20
+- Ubuntu version: 20.04
 - ROS version: Noetic 1.15.11
 - Gazebo version: 11.5.1 (This should comes together with the ROS version installed)
 - Python version: 3.8.5

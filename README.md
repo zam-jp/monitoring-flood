@@ -1,4 +1,4 @@
-# Control Strategy for Monitoring Flood and Its Verification in Gazebo
+# Control Strategy for Monitoring Flood and Its Verification in ROS Gazebo
 
 ## Summary
 - This is the title for my graduation research.

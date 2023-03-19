@@ -13,7 +13,7 @@
 - Have ROS Noetic installed. (Install from http://wiki.ros.org/noetic/Installation/Ubuntu)
   - Dependency package: timed_roslaunch.
 - Have Hector Quadrotor installed. (Install from https://github.com/RAFALAMAO/hector-quadrotor-noetic)
-  - **IMPORTANT**: For this project, a small modification was made to the quadrotor model in order to make it red in color. The required files have been uploaded into the hector_quadrotor folder. The sub-folders in the hector_quadrotor folder reflects where you need to copy the files to.
+  - **IMPORTANT**: For this project, a modified quadrotor model was used. The required files have been uploaded into the hector_quadrotor folder. The sub-folders in the hector_quadrotor folder reflects where you need to copy the files to.
 - Have Python 3 (or above) installed.
   - Required libraries: panda, shapely, opencv, geovoronoi, etc.
 

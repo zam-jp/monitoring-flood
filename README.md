@@ -13,7 +13,7 @@
 - Have ROS Noetic installed. (Install from http://wiki.ros.org/noetic/Installation/Ubuntu)
   - Dependency package: timed_roslaunch.
 - Have Hector Quadrotor installed. (Install from https://github.com/RAFALAMAO/hector-quadrotor-noetic)
-  - **IMPORTANT**: For this project, a small modification was made to the generic quadrotor model in order to make it red in color. The required files have been uploaded into the hector_quadrotor folder. The sub-folders in the hector_quadrotor folder reflects where you need to copy the files to.
+  - **IMPORTANT**: For this project, a small modification was made to the quadrotor model in order to make it red in color. The required files have been uploaded into the hector_quadrotor folder. The sub-folders in the hector_quadrotor folder reflects where you need to copy the files to.
 - Have Python 3 (or above) installed.
   - Required libraries: panda, shapely, opencv, geovoronoi, etc.
 
@@ -39,7 +39,7 @@ These are some issues that I have ran into when I was working on this project.
   - Where to fix: ~/hector_quadrotor_gazebo/urdf/quadrotor_controller.gazebo.xarco
   - What to do: Change controller period value from 0.01 to 0.0125
 
-- Warning message in the Python terminal about using deprecated array interface. This is related to the shapely package update patch.
+- Warning message in the terminal from Python about using deprecated array interface. This is related to the shapely package update patch.
   - Where to fix: /home/.local/lib/python3.8/site-packages/descartes/patch.py
   - What to do: Open the Python file with a text editor and look for the lines containing *t.exterior*. Change it to *t.exterior.coords*
 

@@ -75,6 +75,7 @@ Follow this steps to run the simulation.
 ![world06](https://user-images.githubusercontent.com/84988870/226152603-8c0751c6-ceac-4fab-b71d-53c42fef66e3.png)
 
 ### Example results: The CVT plot (left) and the Density plot (right) from Case 1.
+- Note: In the CVT plot, the black dots represents the drones, and the red squares represents the centroids.
 - At t = 0s
 ![FIG_0000](https://user-images.githubusercontent.com/84988870/226152774-08174e0d-e4b9-4bc7-a456-9078f60bdae3.png)
 

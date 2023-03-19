@@ -74,7 +74,7 @@ Follow this steps to run the simulation.
 - Case 6
 ![world06](https://user-images.githubusercontent.com/84988870/226152603-8c0751c6-ceac-4fab-b71d-53c42fef66e3.png)
 
-### Example: CVT plot and the Density plot from Case 1.
+### Example results: The CVT plot (left) and the Density plot (right) from Case 1.
 - At t = 0s
 ![FIG_0000](https://user-images.githubusercontent.com/84988870/226152774-08174e0d-e4b9-4bc7-a456-9078f60bdae3.png)
 

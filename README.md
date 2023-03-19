@@ -54,3 +54,10 @@ Follow this steps to run the simulation.
 - STEP 2: Next, open another terminal and go to the catkin workspace directory (~/catkin_ws/). To launch the ROS package for the project use the following command in the command-line, **roslaunch [package] [filename.launch]**. For this project it should look like this, **roslaunch flood_monitor_16 flood_monitor.launch**. This will launch the ROS Gazebo simulator. You will see the simulator already loaded with the 3D world. Notice the red drones spawning on the green square off to the side of the 3D world, which represents the launch platform. Wait until all 17 drones have finished spawning before going to STEP 3.
 
 - STEP 3: Lastly, again open another terminal and go to the src directory (~/catkin_ws/src/). Then type, **.\flood_monitor.sh**, in the command-line, to start the simulation. You will see a bunch of new terminals open up for each drone and then the drone will start taking-off. A window showing video from the drone's camera will pop-up. When all the drones are in their starting position, a final window will pop-up to signify that the algorithm is executing. The final window will be displaying the centroidal Voronoi tessellation and the density function plot. To stop the simulation, you have to type CTRL-C for every open terminal.
+
+### The worlds created for this project
+![world01](https://user-images.githubusercontent.com/84988870/226152539-aeaa133b-9058-49b9-b04f-923ffee698f8.png)
+
+![world02](https://user-images.githubusercontent.com/84988870/226152548-fb414750-9216-45ad-aacd-c3b36787e3f9.png)
+
+

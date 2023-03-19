@@ -56,8 +56,18 @@ Follow this steps to run the simulation.
 - STEP 3: Lastly, again open another terminal and go to the src directory (~/catkin_ws/src/). Then type, **.\flood_monitor.sh**, in the command-line, to start the simulation. You will see a bunch of new terminals open up for each drone and then the drone will start taking-off. A window showing video from the drone's camera will pop-up. When all the drones are in their starting position, a final window will pop-up to signify that the algorithm is executing. The final window will be displaying the centroidal Voronoi tessellation and the density function plot. To stop the simulation, you have to type CTRL-C for every open terminal.
 
 ### The worlds created for this project
+- World 1
 ![world01](https://user-images.githubusercontent.com/84988870/226152539-aeaa133b-9058-49b9-b04f-923ffee698f8.png)
 
 ![world02](https://user-images.githubusercontent.com/84988870/226152548-fb414750-9216-45ad-aacd-c3b36787e3f9.png)
+
+![world03](https://user-images.githubusercontent.com/84988870/226152586-8a30a197-e412-472c-b203-35590831c442.png)
+
+![world04](https://user-images.githubusercontent.com/84988870/226152595-d705b200-46c8-49a9-abc7-26e4810afe10.png)
+
+![world05](https://user-images.githubusercontent.com/84988870/226152600-a0428202-50af-4903-873b-b98bc9a82106.png)
+
+![world06](https://user-images.githubusercontent.com/84988870/226152603-8c0751c6-ceac-4fab-b71d-53c42fef66e3.png)
+
 
 

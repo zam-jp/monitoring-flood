@@ -56,23 +56,34 @@ Follow this steps to run the simulation.
 - STEP 3: Lastly, again open another terminal and go to the src directory (~/catkin_ws/src/). Then type, **.\flood_monitor.sh**, in the command-line, to start the simulation. You will see a bunch of new terminals open up for each drone and then the drone will start taking-off. A window showing video from the drone's camera will pop-up. When all the drones are in their starting position, a final window will pop-up to signify that the algorithm is executing. The final window will be displaying the centroidal Voronoi tessellation and the density function plot. To stop the simulation, you have to type CTRL-C for every open terminal.
 
 ### The worlds created for this project
-- World 1
+- Case 1
 ![world01](https://user-images.githubusercontent.com/84988870/226152539-aeaa133b-9058-49b9-b04f-923ffee698f8.png)
 
-- World 2
+- Case 2
 ![world02](https://user-images.githubusercontent.com/84988870/226152548-fb414750-9216-45ad-aacd-c3b36787e3f9.png)
 
-- World 3
+- Case 3
 ![world03](https://user-images.githubusercontent.com/84988870/226152586-8a30a197-e412-472c-b203-35590831c442.png)
 
-- World 4
+- Case 4
 ![world04](https://user-images.githubusercontent.com/84988870/226152595-d705b200-46c8-49a9-abc7-26e4810afe10.png)
 
-- World 5
+- Case 5
 ![world05](https://user-images.githubusercontent.com/84988870/226152600-a0428202-50af-4903-873b-b98bc9a82106.png)
 
-- World 6
+- Case 6
 ![world06](https://user-images.githubusercontent.com/84988870/226152603-8c0751c6-ceac-4fab-b71d-53c42fef66e3.png)
 
+### Example: CVT plot and the Density plot from Case 1.
+- At t = 0s
+![FIG_0000](https://user-images.githubusercontent.com/84988870/226152774-08174e0d-e4b9-4bc7-a456-9078f60bdae3.png)
 
+- At t = 10s
+![FIG_0009](https://user-images.githubusercontent.com/84988870/226152781-2026cedb-884f-4015-b090-102c0e12e0b6.png)
+
+- At t = 15s
+![FIG_0014](https://user-images.githubusercontent.com/84988870/226152785-dc65d2f4-1541-424b-9c45-b896c93f0810.png)
+
+- At t = 60s
+![FIG_0054](https://user-images.githubusercontent.com/84988870/226152788-735bbdcd-eed0-460f-be92-a4eca9d86de0.png)
 

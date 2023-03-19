@@ -59,14 +59,19 @@ Follow this steps to run the simulation.
 - World 1
 ![world01](https://user-images.githubusercontent.com/84988870/226152539-aeaa133b-9058-49b9-b04f-923ffee698f8.png)
 
+- World 2
 ![world02](https://user-images.githubusercontent.com/84988870/226152548-fb414750-9216-45ad-aacd-c3b36787e3f9.png)
 
+- World 3
 ![world03](https://user-images.githubusercontent.com/84988870/226152586-8a30a197-e412-472c-b203-35590831c442.png)
 
+- World 4
 ![world04](https://user-images.githubusercontent.com/84988870/226152595-d705b200-46c8-49a9-abc7-26e4810afe10.png)
 
+- World 5
 ![world05](https://user-images.githubusercontent.com/84988870/226152600-a0428202-50af-4903-873b-b98bc9a82106.png)
 
+- World 6
 ![world06](https://user-images.githubusercontent.com/84988870/226152603-8c0751c6-ceac-4fab-b71d-53c42fef66e3.png)
 
 
